@@ -7,6 +7,7 @@
 在开发中运行程序请先下载 easyx 到 Visual Studio
 
 windows系统下可以运行.msi文件安装游戏
+
 游戏设置那里有bug，点击后可能导致程序崩溃...
 
 游戏内截图：
